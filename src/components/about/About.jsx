@@ -9,7 +9,7 @@ const About = () => {
   return (
     <section id='about'>
         <h5>Get to know</h5>
-        <h2>Sobre mim:</h2>
+        <h2>I am:</h2>
         <div className="container about__container">
           <div className="about__me">
             <div className="about__me-image">
@@ -33,7 +33,7 @@ const About = () => {
               <article className='about__card'>
                 <VscFolderActive className='about__icon' />
                 <h5>Projects</h5>
-                <small>15+ Completed </small>
+                <small>3+ Completed </small>
               </article>
             </div>
             <p>
