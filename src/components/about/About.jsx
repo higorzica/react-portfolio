@@ -37,7 +37,7 @@ const About = () => {
               </article>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, neque mollitia. Molestiae odio quo, quis esse labore rem quisquam deleniti magnam fuga quasi perspiciatis nemo dolores voluptas inventore voluptatibus? Corporis.
+            Meu nome é Higor Zica, sou técnico em informática e bacharel em Admnistração. Sou fascinado por programação e principalmente pelo desenvolvimento web/mobile, estando sempre a procura de conhecimento e novos desafios.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
