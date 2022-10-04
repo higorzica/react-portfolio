@@ -4,8 +4,8 @@ import IMG1 from '../../assets/barbearia.png'
 import IMG2 from '../../assets/pizzaria.png'
 import IMG3 from '../../assets/salao.png'
 import IMG4 from '../../assets/profmargaux.jpeg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG5 from '../../assets/nubank-proj.jpeg'
+
 
 const Portfolio = () => {
   return (
@@ -59,7 +59,17 @@ const Portfolio = () => {
             <a href="https://dribbble.com/" target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
-
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG5} alt="portfolio1" />
+          </div>
+          <h3>Site Nubank, reformulação aplicando SASS, Conceitos de Design 3d, UX/UI compativel com a cultura da organização. </h3>
+          <h5>Responsivo para Mobile</h5>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/" target='_blank' className='btn'>GitHub</a>
+            <a href="https://dribbble.com/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
       </div>
     </section>
   )
