@@ -30,9 +30,9 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h5>
-        {t('My recent Work')}
+        {t('Meus trabalhos recentes')}
       </h5>
-      <h2>{t('Portfolio')}</h2>
+      <h2>{t('Portfólio')}</h2>
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">

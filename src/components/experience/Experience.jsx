@@ -21,7 +21,7 @@ const Experience = () => {
   return (
     <section id='experience'>
       <h5>{t('Quais habilidades possuo ?')} </h5>
-      <h2>{t('My Experience')} </h2>
+      <h2>{t('Minha Experiencia')} </h2>
     <div className="container experience__container">
       <div className="experience__frontend">
           <h3>FrontEnd Development</h3>

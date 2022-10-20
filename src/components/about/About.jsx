@@ -47,7 +47,7 @@ const About = () => {
 
               <article className='about__card'>
                 <VscFolderActive className='about__icon' />
-                <h5>{t('Projects')}</h5>
+                <h5>{t('Projetos')}</h5>
                 <small>{t('3+ Completos')}</small>
               </article>
             </div>
