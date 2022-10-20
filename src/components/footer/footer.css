@@ -47,8 +47,9 @@ footer a {
 
 }
 
-.footer_copyright {
-    margin-bottom: 4rem;
+.footer__copyright {
+    
+    margin-bottom: 5rem;
     color: var(--color-bg);
 }
 

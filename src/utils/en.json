@@ -11,7 +11,7 @@
         "Projetos": "Projects",
         "3+ Completos":"3+ Completed",
         "Meu nome é Higor Zica, sou técnico em informática e bacharel em Admnistração. Sou fascinado por programação e principalmente pelo desenvolvimento web/mobile, estando sempre a procura de conhecimento e novos desafios.": "My name is Higor Zica, I'm a computer technician with a bachelor's degree in Administration. I am fascinated by programming and especially by web/mobile development, always looking for knowledge and new challenges.",
-        "Contate-me": "Let's Talk",
+        
 
         "Quais habilidades possuo ?": "What Skills I Have ?",
         "Minha Experiencia": "My Experience",
@@ -45,7 +45,13 @@
         "Levar a ideia do cliente a um patamar executável de negócio.":"Take the client's idea to an executable business level.",
 
         "Para entrar em contato":"To Get in touch",
-        "Enviar Mensagem": "Send a Message"
+        "Enviar Mensagem": "Send a Message",
+
+
+        "Início":"Home",
+        "História":"About",
+        "Experiência":"Experience",
+        "Serviços":"Service"
 
     }
 }

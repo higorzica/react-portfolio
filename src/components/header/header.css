@@ -19,6 +19,7 @@ header {
 .titulo{
     margin-left: 8px;
     margin-top: -20px;
+    text-decoration: underline;
 }
 
 .ctaidiomas {
@@ -27,6 +28,7 @@ header {
     gap: 1rem;
     justify-content: right;
     margin-top: -15px;
+
 }
 
 /* ================ CTA ================ */
