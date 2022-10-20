@@ -17,6 +17,7 @@
     --color-primary-variant: rgba(77,181,255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255,255,255, 0.6);
+    --color-gradient: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 57%, rgba(54,70,255,0.9485994226792279) 100%);
 
     --transition: all 400ms ease;
 
@@ -102,6 +103,26 @@ a:hover {
 .btn-primary {
     background: var(--color-primary);
     color: var(--color-bg);
+}
+
+.btn-idiomas {
+    width: max-content;
+    display: inline-block;
+    background: var(--color-gradient);
+    color: var(--color-white);
+    padding: 0.3rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border: transparent;
+    transition: var(--transition);
+    margin-top: -15px;
+    margin-left: 5px;
+}
+
+.btn-idiomas:hover {
+    background: var(--color-white);
+    color: var(--color-bg);
+    border-color: transparent;
 }
 
 img {

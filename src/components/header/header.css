@@ -9,12 +9,29 @@ header {
     text-align: center;
     height: 100%;
     position: relative;
+    top: -10px;
 
 }
 
 /* ================ CTA ================ */
+
+
+.titulo{
+    margin-left: 8px;
+    margin-top: -20px;
+}
+
+.ctaidiomas {
+    margin-right: 1rem;
+    display: absolute;
+    gap: 1rem;
+    justify-content: right;
+    margin-top: -15px;
+}
+
+/* ================ CTA ================ */
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
