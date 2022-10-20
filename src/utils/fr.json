@@ -1,50 +1,49 @@
 {
     "translation":{
-        "Olá - Seja Bem-vindo ! Eu Sou": "Olá - Seja Bem-vindo ! Eu Sou",
-        "Contate-me": "Contate-me",
-        "Minha História": "Minha História",
-        "Experiencia": "Experiencia",
-        "2+ Anos Trabalhando como Web Developer": "2+ Anos Trabalhando como Web Developer",
-        "Clientes": "Clientes",
-        "20+ por todo o Mundo": "20+ por todo o Mundo",
-        "Projetos": "Projetos",
-        "3+ Completos":"3+ Completos",
-        "Meu nome é Higor Zica, sou técnico em informática e bacharel em Admnistração. Sou fascinado por programação e principalmente pelo desenvolvimento web/mobile, estando sempre a procura de conhecimento e novos desafios.": "Meu nome é Higor Zica, sou técnico em informática e bacharel em Admnistração. Sou fascinado por programação e principalmente pelo desenvolvimento web/mobile, estando sempre a procura de conhecimento e novos desafios.",
-        "Contate-me": "Contate-me",
+        "Olá - Seja Bem-vindo ! Eu Sou": "Bonjour - Bienvenue ! Je suis",
+        "Contate-me": "Contactez-moi",
+        "Minha História": "Mon Histoire",
+        "Experiencia": "Expérience",
+        "2+ Anos Trabalhando como Web Developer": "Développeur Web depuis plus de 2 ans",
+        "Clientes": "Clients",
+        "20+ por todo o Mundo": "Plus de 20 clients dans le monde entier",
+        "Projetos": "Projets",
+        "3+ Completos":"Plus de 6 projets complets",
+        "Meu nome é Higor Zica, sou técnico em informática e bacharel em Admnistração. Sou fascinado por programação e principalmente pelo desenvolvimento web/mobile, estando sempre a procura de conhecimento e novos desafios.": "Je m'appelle Higor, je suis technicien en informatique et diplômé en Administration. Je suis un passionné de la programmation - principalement du développement Web/mobile - et je suis toujours à la recherche de nouvelles connaissances et de nouveaux défis.",
 
-        "Quais habilidades possuo ?": "Quais habilidades possuo ?",
-        "Minha Experiencia": "Minha Experiencia",
+        "Quais habilidades possuo ?": "Quelles qualités je possède ?",
+        "Minha Experiencia": "Mon Expérience",
 
-        "Meus trabalhos recentes": "Meus trabalhos recentes",
-        "Portifolio": "Portifolio",
+        "Meus trabalhos recentes": "Mes récents travaux",
+        "Portifolio": "Portfolio",
 
-        "Site Persolizável com Sistema de Gestão para Barbearias.":"Site Persolizável com Sistema de Gestão para Barbearias.",
-        "Responsivo para Mobile":"Responsivo para Mobile",
+        "Site Persolizável com Sistema de Gestão para Barbearias.":"Site Personnalisable avec un Système de Gestion pour les Salons de Coiffure.",
+        "Responsivo para Mobile":"Version pour Mobile",
 
-        "Site Persolizável com Sistema de Cadastro para Cardápio Online.": "Site Persolizável com Sistema de Cadastro para Cardápio Online. ",
-        "Responsivo para Mobile":"Responsivo para Mobile",
-        "Sistema de Gestão para Salão de Beleza.": "Sistema de Gestão para Salão de Beleza.",
-        "Site Persolizável com Sistema de Gestão para Aulas Particulares / Escola de Idiomas.": "Site Persolizável com Sistema de Gestão para Aulas Particulares / Escola de Idiomas.",
-        "Responsivo para Mobile":"Responsivo para Mobile",
-        "Site Nubank, reformulação aplicando SASS, Conceitos de Design 3d, UX/UI compativel com a cultura da organização.": "Site Nubank, reformulação aplicando SASS, Conceitos de Design 3d, UX/UI compativel com a cultura da organização.",
-        "Responsivo para Mobile":"Responsivo para Mobile",
-        "Site para empresa de Software de Gerenciamento Escolar, tecnologia usadas HTML, SASS, JS, UX/UI compativel com a cultura da organização.": "Site para empresa de Software de Gerenciamento Escolar, tecnologia usadas HTML, SASS, JS, UX/UI compativel com a cultura da organização.",
-        "Responsivo para Mobile":"Responsivo para Mobile",
+        "Site Persolizável com Sistema de Cadastro para Cardápio Online.": "Site Personnalisable avec un Système de Registre pour le Menu En Ligne. ",
 
-        "O que eu ofereço?": "O que eu ofereço?",
-        "Meus Serviços": "Meus Serviços",
-        "Criação de interfaces mais fáceis e amigáveis.": "Criação de interfaces mais fáceis e amigáveis.",
-        "Elaboração de ideias para: botões, tipografia, ícones e cores.": "Elaboração de ideias para: botões, tipografia, ícones e cores.",
-        "Foco em melhorar experiência do usuário.": "Foco em melhorar experiência do usuário.",
-        "Materializar os sonhos do clientes por meio dos seus produtos e serviços.": "Materializar os sonhos do clientes por meio dos seus produtos e serviços.",
-        "Criar mecanismos que guiam o usuário pelas interfaces gráficas e visuais.": "Criar mecanismos que guiam o usuário pelas interfaces gráficas e visuais.",
-        "Especialista em desenvolvimento de sistemas para a internet.": "Especialista em desenvolvimento de sistemas para a internet.",
-        "Objetivo de transformar seu site em uma excelente experiência a quem irá usar.": "Objetivo de transformar seu site em uma excelente experiência a quem irá usar.",
-        "Manutenção em bancos de dados, armazenamento e atualização de informações, a fim de atender o volume de internautas e seu correto funcionamento.": "Manutenção em bancos de dados, armazenamento e atualização de informações, a fim de atender o volume de internautas e seu correto funcionamento.",
-        "Levar a ideia do cliente a um patamar executável de negócio.":"Levar a ideia do cliente a um patamar executável de negócio.",
+        "Sistema de Gestão para Salão de Beleza.": "Système de Gestion pour les Salons de Beauté.",
+        "Site Persolizável com Sistema de Gestão para Aulas Particulares / Escola de Idiomas.": "Site Personnalisable avec un Système de Gestion pour les Cours Particuliers / Écoles de Langues.",
 
-        "Para entrar em contato":"Para entrar em contato",
-        "Enviar Mensagem": "Enviar Mensagem"
+        "Site Nubank, reformulação aplicando SASS, Conceitos de Design 3d, UX/UI compativel com a cultura da organização.": "Site Nubank, reformulation appliquant SASS, Concepts de Design 3d, UX/UI compatible avec la culture de l'organisation.",
+
+        "Site para empresa de Software de Gerenciamento Escolar, tecnologia usadas HTML, SASS, JS, UX/UI compativel com a cultura da organização.": "Site pour les entreprises de logiciels de gestion scolaire, technologies utilisées HTML, SASS, JS, UX/UI compatible avec la culture de l'organisation.",
+
+
+        "O que eu ofereço?": "Qu'est-ce que j'offre ?",
+        "Meus Serviços": "Mes Services",
+        "Criação de interfaces mais fáceis e amigáveis.": "Création d'interfaces plus simples et agréables.",
+        "Elaboração de ideias para: botões, tipografia, ícones e cores.": "Élaboration des idées pour : boutons, typographie, icônes et couleurs.",
+        "Foco em melhorar experiência do usuário.": "But principal d'améliorer l'expérience de l'utilisateur.",
+        "Materializar os sonhos do clientes por meio dos seus produtos e serviços.": "Matérialiser les rêves des clients à travers ses produits et services.",
+        "Criar mecanismos que guiam o usuário pelas interfaces gráficas e visuais.": "Créer des mécanismes visant à guider l'usager dans les interfaces graphiques et visuelles.",
+        "Especialista em desenvolvimento de sistemas para a internet.": "Spécialiste en développement de systèmes pour internet.",
+        "Objetivo de transformar seu site em uma excelente experiência a quem irá usar.": "Objectif de transformer votre site en une excellente expérience pour celui qui l'utilisera.",
+        "Manutenção em bancos de dados, armazenamento e atualização de informações, a fim de atender o volume de internautas e seu correto funcionamento.": "Maintenance  en banques de données, stockage et mise à jour des informations, dans le but de répondre aux attentes des internautes et veiller à son bon fonctionnement.",
+        "Levar a ideia do cliente a um patamar executável de negócio.":"Amener l'idée du client à un niveau opérationnel d'affaire.",
+
+        "Para entrar em contato":"Pour me contacter",
+        "Enviar Mensagem": "Envoyer un Message"
 
 
 
