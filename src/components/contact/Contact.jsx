@@ -34,7 +34,7 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h2>{t('Para entrar em contato:')}</h2>
+      <h2>{t('Para entrar em contato')}</h2>
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
