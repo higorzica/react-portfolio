@@ -78,8 +78,8 @@ const Portfolio = () => {
           <h3>{t('Site Persolizável com Sistema de Gestão para Aulas Particulares / Escola de Idiomas.')}</h3>
           <h5>{t('Responsivo para Mobile')}</h5>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" target='_blank' className='btn'>GitHub</a>
-            <a href="https://dribbble.com/" target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href="https://github.com/higorzica/react-portfolio" target='_blank' className='btn'>GitHub</a>
+            <a href="http://profmargauxfrances.com/" target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
