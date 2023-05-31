@@ -15,7 +15,7 @@
 
 .experience__container > div:hover {
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-white);
     cursor: default;
 }
 
@@ -38,6 +38,7 @@
 }
 
 .experience__details-icon {
+    font-size: 36px;
     margin-top: 6px;
     color: var(--color-primary);
 }

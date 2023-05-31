@@ -5,7 +5,7 @@
         "Minha História": "My History",
         "Experiencia": "Experience",
 
-        "2+ Anos Trabalhando como Web Developer": "2+ Years Working as a Web Developer",
+        "4+ Anos Trabalhando como Web Developer": "4+ Years Working as a Web Developer",
         "Clientes": "Clients",
         "20+ por todo o Mundo": "20+ worldwide",
         "Projetos": "Projects",
@@ -23,14 +23,20 @@
         "Responsivo para Mobile":"Responsive for Mobile",
 
         "Site Persolizável com Sistema de Cadastro para Cardápio Online.": "Persolizable Website with Registration System for Online Menu. ",
-        "Responsivo para Mobile":"Responsive for Mobile",
+
         "Sistema de Gestão para Salão de Beleza.": "Management System for Beauty Salon.",
         "Site Persolizável com Sistema de Gestão para Aulas Particulares / Escola de Idiomas.": "Persolizable Website with Management System for Private Classes / Language School.",
-        "Responsivo para Mobile":"Responsive for Mobile",
+
         "Site Nubank, reformulação aplicando SASS, Conceitos de Design 3d, UX/UI compativel com a cultura da organização.": "Nubank website, reformulation applying SASS, 3d Design Concepts, UX/UI compatible with the organization's culture.",
-        "Responsivo para Mobile":"Responsive for Mobile",
+
         "Site para empresa de Software de Gerenciamento Escolar, tecnologia usadas HTML, SASS, JS, UX/UI compativel com a cultura da organização.": "Website for School Management Software company, technology used HTML, SASS, JS, UX/UI compatible with the organization's culture.",
-        "Responsivo para Mobile":"Responsive for Mobile",
+
+        
+        "Blog de tecnologia para compartilhar dicas e conhecimento, tecnologia usadas Angular, API, JS, UX/UI compativel com a com tema proposto pelo cliente.": "Technology blog to share tips and knowledge, technology used Angular, API, JS, UX/UI compatible with the theme proposed by the client.",
+
+        "Site institucional para empresa de manutenção de computadores e notebooks, tecnologias usadas HTML, SCSS, JS, UX/UI compativel com a cultura da organização.": "Institutional website for a computer and notebook maintenance company, technologies used HTML, SCSS, JS, UX/UI compatible with the organization's culture.",
+
+        "App de controle financeiro com base de dados em LocalStorage + Usando Components Styled. Tecnologias usadas React, SCSS, JS.": "Financial control app based on LocalStorage data + Using Styled Components. Technologies used React, SCSS, JS.",
 
         "O que eu ofereço?": "What I Offer ? ",
         "Meus Serviços": "My Services",

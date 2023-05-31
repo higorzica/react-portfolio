@@ -4,7 +4,7 @@
         "Contate-me": "Contactez-moi",
         "Minha História": "Mon Histoire",
         "Experiencia": "Expérience",
-        "2+ Anos Trabalhando como Web Developer": "Développeur Web depuis plus de 2 ans",
+        "4+ Anos Trabalhando como Web Developer": "Développeur Web depuis plus de 4 ans",
         "Clientes": "Clients",
         "20+ por todo o Mundo": "Plus de 20 clients dans le monde entier",
         "Projetos": "Projets",
@@ -29,6 +29,11 @@
 
         "Site para empresa de Software de Gerenciamento Escolar, tecnologia usadas HTML, SASS, JS, UX/UI compativel com a cultura da organização.": "Site pour les entreprises de logiciels de gestion scolaire, technologies utilisées HTML, SASS, JS, UX/UI compatible avec la culture de l'organisation.",
 
+        "Blog de tecnologia para compartilhar dicas e conhecimento, tecnologia usadas Angular, API, JS, UX/UI compativel com a com tema proposto pelo cliente.": "Blog technologique pour partager des astuces et connaissances, technologie utilisée Angular, API, JS, UX/UI compatible avec le thème proposé par le client.",
+
+        "Site institucional para empresa de manutenção de computadores e notebooks, tecnologias usadas HTML, SCSS, JS, UX/UI compativel com a cultura da organização.": "Site institutionnel d'une entreprise de maintenance d'ordinateurs et notebooks, technologies utilisées HTML, SCSS, JS, UX/UI compatibles avec la culture de l'organisation.",
+
+        "App de controle financeiro com base de dados em LocalStorage + Usando Components Styled. Tecnologias usadas React, SCSS, JS.": "Application de contrôle financier basée sur les données LocalStorage + Utilisation de composants stylés. Technologies utilisées React, SCSS, JS.",
 
         "O que eu ofereço?": "Qu'est-ce que j'offre ?",
         "Meus Serviços": "Mes Services",

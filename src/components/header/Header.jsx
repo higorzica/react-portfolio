@@ -29,7 +29,7 @@ const Header = () => {
         <button onClick = {() => changeLanguage('fr')} href="#" className='btn-idiomas'>Français</button>
     </div>
       <div className="container header__container">
-        <h5>{t('Olá - Seja Bem-vindo ! Eu Sou')} </h5>
+        <h5>{t('Olá - Seja Bem-vindo 🤝 ! Eu Sou')} </h5>
         <h1>Higor Zica</h1>
         <h5 className="text-light">Fullstack Developer</h5>
         <CTA />
